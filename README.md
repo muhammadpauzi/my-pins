@@ -12,3 +12,12 @@
 # Helpers
 - https://devhints.io/ (code2 dasar)
 - https://mem.dev/ (Untuk menyimpan snippet code)
+
+
+# React
+- React Hooks : React Use, React Haiku, Rooks
+- Other : React Table, React Draggable, React Helmet
+- Icons : React Icons, @heroicons/react
+- State & Data Fetching : React Query, Axios, Redux Toolkit, Zustand
+- Animations : Framer Motion, React Spring. GSAP
+- TailwindCSS Stack : @headlessui/react, tailwindcss, @heroicons/react
