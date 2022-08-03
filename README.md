@@ -13,6 +13,9 @@
 - https://devhints.io/ (code2 dasar)
 - https://mem.dev/ (Untuk menyimpan snippet code)
 
+# UI Designs
+- https://uidesigndaily.com/
+
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
