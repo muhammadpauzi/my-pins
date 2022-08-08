@@ -16,6 +16,8 @@
 # UI Designs
 - https://uidesigndaily.com/
 
+# Learns
+- https://learnxinyminutes.com/
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
@@ -24,3 +26,4 @@
 - State & Data Fetching : React Query, Axios, Redux Toolkit, Zustand
 - Animations : Framer Motion, React Spring. GSAP
 - TailwindCSS Stack : @headlessui/react, tailwindcss, @heroicons/react
+- UI : Base Web, Chackra UI, Material UI
