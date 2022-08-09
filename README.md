@@ -28,3 +28,6 @@
 - Animations : Framer Motion, React Spring. GSAP
 - TailwindCSS Stack : @headlessui/react, tailwindcss, @heroicons/react
 - UI : Base Web, Chackra UI, Material UI
+
+# TailwindCSS & The Plugins
+- Cocok untuk markdown style content : https://tailwindcss.com/docs/typography-plugin
