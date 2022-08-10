@@ -31,3 +31,9 @@
 
 # TailwindCSS & The Plugins
 - Cocok untuk markdown style content : https://tailwindcss.com/docs/typography-plugin
+
+# Headless CMS
+- [Payload CMS](https://payloadcms.com/)
+- [HyGraph CMS](https://hygraph.com/)
+- Sanity
+- Strapi
