@@ -3,7 +3,7 @@
 - Cocok untuk blog detail : https://ahrefs.com/blog/seo-meta-tags/
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
-- [Web Company Profile Inspiration][https://contentoo.com/]
+- [Web Company Profile Inspiration](https://contentoo.com/)
 
 # Dashboards
 - https://preview.tabler.io/form-elements.html
