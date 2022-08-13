@@ -6,8 +6,13 @@
 - [Web Company Profile Inspiration](https://contentoo.com/)
 - [Web Blog (components)](https://tsh.io/blog/headless-wordpress-as-an-api-for-a-next-js-application/)
 
-# Dashboards
+# Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
+- https://demo.plainadmin.com/signin.html
+- https://windmill-dashboard.vercel.app/forms.html **(Tailwind)**
+- https://demo.themesberg.com/volt/pages/dashboard/dashboard.html
+- https://kamona-wd.github.io/starter-dashboard-layout/# **(Tailwind)**
+- https://adminlte.io/themes/v3/pages/forms/general.html
 
 # CSS Blog Content Styles
 
@@ -22,6 +27,9 @@
 
 # Learns
 - https://learnxinyminutes.com/
+
+# Cheet Sheets
+- https://overapi.com/
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
