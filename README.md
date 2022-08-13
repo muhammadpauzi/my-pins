@@ -27,6 +27,10 @@
 
 # Learn
 - https://learnxinyminutes.com/
+- GraphQL
+  - [Part 1](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-a-complete-guide-part-1-setup-cddceae25bdc)
+  - [Part 2](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293)
+  - [Part 3](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-d20c920a4494)
 
 # Cheet Sheets
 - https://overapi.com/
