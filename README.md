@@ -4,6 +4,7 @@
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
 - [Web Company Profile Inspiration](https://contentoo.com/)
+- [Web Blog (components)](https://tsh.io/blog/headless-wordpress-as-an-api-for-a-next-js-application/)
 
 # Dashboards
 - https://preview.tabler.io/form-elements.html
