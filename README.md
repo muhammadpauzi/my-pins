@@ -25,7 +25,7 @@
 # UI Designs
 - https://uidesigndaily.com/
 
-# Learns
+# Learn
 - https://learnxinyminutes.com/
 
 # Cheet Sheets
