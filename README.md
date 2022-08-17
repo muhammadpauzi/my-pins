@@ -5,6 +5,7 @@
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
 - [Web Company Profile Inspiration](https://contentoo.com/)
 - [Web Blog (components)](https://tsh.io/blog/headless-wordpress-as-an-api-for-a-next-js-application/)
+- [Supabase Website Design](https://supabase.com/pricing)
 
 # Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
