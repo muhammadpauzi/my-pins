@@ -52,3 +52,15 @@
 - [HyGraph CMS](https://hygraph.com/)
 - Sanity
 - Strapi
+
+# Fonts
+- Segoe UI
+- Source Sans Pro
+- Public Sans
+- Poppins
+- Nunito / Sans
+- Roboto
+- Lato
+- Merriweather
+- Raleway
+- QuickSans
