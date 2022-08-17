@@ -10,3 +10,5 @@
 - FilePond
 - Dropzone
 - upload-js
+- @uppy
+- mores : https://cssauthor.com/javascript-file-upload-library-plugins/
