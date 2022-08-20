@@ -22,12 +22,16 @@
 # Helpers
 - https://devhints.io/ (code2 dasar)
 - https://mem.dev/ (Untuk menyimpan snippet code)
+- https://www.csshero.org/mesher/ [Gradient CSS Generator]
+- https://www.csshero.org (css editor/apalah)
+- https://finddev.tools/ (Untuk menemukan tools)
 
 # UI Designs
 - https://uidesigndaily.com/
 
 # Learn
 - https://learnxinyminutes.com/
+- https://learnjavascript.online/
 - GraphQL
   - [Part 1](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-a-complete-guide-part-1-setup-cddceae25bdc)
   - [Part 2](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293)
@@ -66,5 +70,13 @@
 - Raleway
 - QuickSans
 
-# Analitics
+# Analytics
 - https://splitbee.io/
+
+# Productivity & Collaborative Tools
+- Notion
+- https://milanote.com/ (Lebih Flexsible)
+- https://excalidraw.com/ (Drawing)
+
+# Others
+- https://nanoreview.net/ (Comparing CPU, Processor, Laptops and others)
