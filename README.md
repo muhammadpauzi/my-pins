@@ -6,6 +6,8 @@
 - [Web Company Profile Inspiration](https://contentoo.com/)
 - [Web Blog (components)](https://tsh.io/blog/headless-wordpress-as-an-api-for-a-next-js-application/)
 - [Supabase Website Design](https://supabase.com/pricing)
+- https://www.scalahosting.com/blog/ scalaHosting Font & Blog Design
+- https://www.scalahosting.com 
 
 # Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
