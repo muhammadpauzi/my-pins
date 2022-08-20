@@ -79,6 +79,27 @@
 - Notion
 - https://milanote.com/ (Lebih Flexsible)
 - https://excalidraw.com/ (Drawing)
+- https://plantuml.com/
 
 # Others
 - https://nanoreview.net/ (Comparing CPU, Processor, Laptops and others)
+
+# Javascript Libs
+
+## Toasts, Notifactions, Alerts & Dialogs
+- https://notifyjs.jpillora.com/
+- https://alertifyjs.com/
+- https://ireade.github.io/Toast.js/
+- https://kamranahmed.info/toast
+
+## Tooltips
+- Tippyjs
+- popover
+
+## Input File
+- FilePond
+- Dropzone
+- upload-js
+- @uppy
+- mores : https://cssauthor.com/javascript-file-upload-library-plugins/
+
