@@ -27,6 +27,9 @@
 - https://www.csshero.org/mesher/ [Gradient CSS Generator]
 - https://www.csshero.org (css editor/apalah)
 - https://finddev.tools/ (Untuk menemukan tools)
+- https://www.useblackbox.io/ (Seperti GitHub Copilot)
+- https://devdocs.io/ (Satu untuk Semua Dokumentasi)
+- https://www.happyhues.co/ (Pallete Warna Website)
 
 # UI Designs
 - https://uidesigndaily.com/
@@ -41,6 +44,8 @@
 
 # Cheet Sheets
 - https://overapi.com/
+- https://www.html-code-generator.com/
+- https://www.html-code-generator.com/css/snippets/loading-animation (Loading CSS Animation)
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
