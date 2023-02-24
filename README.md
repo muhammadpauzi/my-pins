@@ -30,6 +30,7 @@
 - https://www.useblackbox.io/ (Seperti GitHub Copilot)
 - https://devdocs.io/ (Satu untuk Semua Dokumentasi)
 - https://www.happyhues.co/ (Pallete Warna Website)
+- https://compressor.io/ (Compress Image)
 
 # UI Designs
 - https://uidesigndaily.com/
