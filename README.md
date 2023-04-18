@@ -34,6 +34,7 @@
 
 # UI Designs
 - https://uidesigndaily.com/
+- https://storyset.com/people
 
 # Learn
 - https://learnxinyminutes.com/
