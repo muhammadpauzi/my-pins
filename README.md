@@ -113,3 +113,6 @@
 
 # Sliders / Carousel
 - https://splidejs.com/
+
+# Others
+- https://github.com/elbywan/wretch
