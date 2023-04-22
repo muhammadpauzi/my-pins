@@ -111,3 +111,5 @@
 - @uppy
 - mores : https://cssauthor.com/javascript-file-upload-library-plugins/
 
+# Sliders / Carousel
+- https://splidejs.com/
