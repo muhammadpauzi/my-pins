@@ -24,7 +24,6 @@
 # Helpers
 - https://devhints.io/ (code2 dasar)
 - https://mem.dev/ (Untuk menyimpan snippet code)
-- https://www.csshero.org/mesher/ [Gradient CSS Generator]
 - https://www.csshero.org (css editor/apalah)
 - https://finddev.tools/ (Untuk menemukan tools)
 - https://www.useblackbox.io/ (Seperti GitHub Copilot)
@@ -32,9 +31,31 @@
 - https://www.happyhues.co/ (Pallete Warna Website)
 - https://compressor.io/ (Compress Image)
 
+# Background Generators
+- https://www.csshero.org/mesher/ [Gradient CSS Generator]
+- https://patternpad.com/
+- https://app.haikei.app/ (🌟)
+- https://bgjar.com/
+- https://coolbackgrounds.io/
+- https://meshgradient.in/
+- https://codioful.com/
+- https://www.svgbackgrounds.com/
+
+# Loaders
+- https://cssloaders.github.io/ (🌟)
+- https://whirl.netlify.app/ (🌟)
+- https://loading.io/
+- https://www.cssportal.com/css-loader-generator/
+- https://codepen.io/vank0/pen/mrRwLg
+- https://10015.io/tools/css-loader-generator
+
+# Ilustrations
+- https://www.manypixels.co/gallery
+
 # UI Designs
 - https://uidesigndaily.com/
 - https://storyset.com/people
+- https://codedesign.dev/ (Design with Resources File)
 
 # Learn
 - https://learnxinyminutes.com/
