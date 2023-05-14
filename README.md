@@ -8,6 +8,7 @@
 - [Supabase Website Design](https://supabase.com/pricing)
 - https://www.scalahosting.com/blog/ scalaHosting Font & Blog Design
 - https://www.scalahosting.com 
+- https://erik.cat/ (Personal Website)
 
 # Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
