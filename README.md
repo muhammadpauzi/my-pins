@@ -9,6 +9,7 @@
 - https://www.scalahosting.com/blog/ scalaHosting Font & Blog Design
 - https://www.scalahosting.com 
 - https://erik.cat/ (Personal Website)
+- https://docs.flowfra.me/docs/laravel-trend (Example of simple concept of dashboard)
 
 # Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
