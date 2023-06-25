@@ -123,6 +123,7 @@
 - https://ireade.github.io/Toast.js/
 - https://kamranahmed.info/toast
 - https://ned.im/noty (BEST)
+- https://izitoast.marcelodolza.com/ (BEST)
 
 ## Tooltips
 - Tippyjs
