@@ -53,11 +53,18 @@
 
 # Ilustrations
 - https://www.manypixels.co/gallery
+- https://absurd.design/ (✨️)
+- https://www.drawkit.com/#browse-now-button (✨️)
+- https://iradesign.io/
+- https://www.manypixels.co/gallery
+- https://icons8.com/illustrations (✨️)
 
 # UI Designs
 - https://uidesigndaily.com/
 - https://storyset.com/people
 - https://codedesign.dev/ (Design with Resources File)
+- https://freebiesupply.com/
+- https://interfacer.xyz/
 
 # Learn
 - https://learnxinyminutes.com/
