@@ -32,6 +32,7 @@
 - https://devdocs.io/ (Satu untuk Semua Dokumentasi)
 - https://www.happyhues.co/ (Pallete Warna Website)
 - https://compressor.io/ (Compress Image)
+- https://realtimecolors.com
 
 # Background Generators
 - https://www.csshero.org/mesher/ [Gradient CSS Generator]
