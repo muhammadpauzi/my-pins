@@ -1,3 +1,21 @@
+# Color Tools
+
+- Whocanuse whocanuse.com
+- Color.review color.review
+- Color Constrast checker colourcontrast.cc
+- Accessibleweb accessibleweb.com/color-contrast-cheker
+- Venngage venngage.com/tools/accessible-color-pallete-generator
+
+# Designer tools and helper
+
+- Mockup designs mockups-design.com
+- Pixcap.com
+- Shortcuts.design
+- dirtylinestudio.com/freebies
+- uiverse.io
+- jitter.video
+- sketchvalley.com
+
 # Website Designs
 
 - Cocok untuk blog detail : https://ahrefs.com/blog/seo-meta-tags/
