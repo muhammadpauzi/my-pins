@@ -111,6 +111,19 @@
 - Merriweather
 - Raleway
 - QuickSans
+- Outfit
+- Supreme
+- Hubot Sans
+- Figtree
+- Nacelle
+- Be vietnam pro
+
+# Fonts for Brutalism Design
+- Bricolage
+- Lugati
+- Unbounded
+- Della gothic one
+- Galgo
 
 # Analytics
 - https://splitbee.io/
@@ -150,3 +163,11 @@
 
 # Others
 - https://github.com/elbywan/wretch
+
+# Figma Plugins
+- Supa Pallete @angelolibero
+- Autoflow @davidyitong
+- Breakpoints @floweare
+- Typescales @marvin
+- Table Creator @gavinmcfarland
+- Beautiful Shadows @aw
