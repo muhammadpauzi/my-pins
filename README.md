@@ -15,6 +15,8 @@
 - uiverse.io
 - jitter.video
 - sketchvalley.com
+- https://www.fontpair.co/
+- https://www.monotype.com/font-pairing#/
 
 # Website Designs
 
