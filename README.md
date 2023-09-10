@@ -81,6 +81,9 @@
 - https://icons8.com/illustrations (✨️)
 - https://popsy.co/illustrations
 
+$ Animations
+- https://lottiefiles.com/animation/landing-page
+
 # UI Designs
 - https://uidesigndaily.com/
 - https://storyset.com/people
