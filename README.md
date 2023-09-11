@@ -81,6 +81,7 @@
 - https://icons8.com/illustrations (✨️)
 - https://popsy.co/illustrations
 - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
+- https://superdevresources.com/3d-illustrations-free/
 
 $ Animations
 - https://lottiefiles.com/animation/landing-page
