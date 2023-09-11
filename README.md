@@ -82,6 +82,7 @@
 - https://popsy.co/illustrations
 - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
 - https://superdevresources.com/3d-illustrations-free/
+- https://www.uistore.design/categories/illustrations/
 
 $ Animations
 - https://lottiefiles.com/animation/landing-page
