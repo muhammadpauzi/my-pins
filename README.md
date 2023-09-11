@@ -80,6 +80,7 @@
 - https://www.manypixels.co/gallery
 - https://icons8.com/illustrations (✨️)
 - https://popsy.co/illustrations
+- https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
 
 $ Animations
 - https://lottiefiles.com/animation/landing-page
