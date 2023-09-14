@@ -38,7 +38,13 @@
 - https://demo.themesberg.com/volt/pages/dashboard/dashboard.html
 - https://kamona-wd.github.io/starter-dashboard-layout/# **(Tailwind)**
 - https://adminlte.io/themes/v3/pages/forms/general.html
-
+- https://github.com/themeselection/sneat-bootstrap-html-admin-template-free
+- https://github.com/zuramai/mazer
+- https://github.com/stisla/stisla
+- https://adminkit.io/
+- https://coreui.io/
+- https://www.bootstrapdash.com/bootstrap-free-admin-templates
+  
 # CSS Blog Content Styles
 
 - https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown-light.css
@@ -84,7 +90,7 @@
 - https://superdevresources.com/3d-illustrations-free/
 - https://www.uistore.design/categories/illustrations/
 
-$ Animations
+# Animations
 - https://lottiefiles.com/animation/landing-page
 
 # UI Designs
