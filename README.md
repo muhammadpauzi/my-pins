@@ -150,6 +150,7 @@
 - Nacelle
 - Be vietnam pro
 - https://www.thedesignership.com/blog/best-free-fonts-for-ui-design
+- Cabin
 
 # Fonts for Brutalism Design
 - Bricolage
