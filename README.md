@@ -70,6 +70,9 @@
 - https://codioful.com/
 - https://www.svgbackgrounds.com/
 
+# Generators
+- https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
+
 # Loaders
 - https://cssloaders.github.io/ (🌟)
 - https://whirl.netlify.app/ (🌟)
