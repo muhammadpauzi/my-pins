@@ -158,6 +158,7 @@
 - Be vietnam pro
 - https://www.thedesignership.com/blog/best-free-fonts-for-ui-design
 - Cabin
+- Manrope
 
 # Fonts for Brutalism Design
 - Bricolage
