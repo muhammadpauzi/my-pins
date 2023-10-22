@@ -103,6 +103,10 @@
 - https://freebiesupply.com/
 - https://interfacer.xyz/
 
+# Lightbox Libraries
+- https://fancyapps.com/
+- https://fslightbox.com/
+
 # Learn
 - https://learnxinyminutes.com/
 - https://learnjavascript.online/
