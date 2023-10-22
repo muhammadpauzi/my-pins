@@ -107,6 +107,12 @@
 - https://fancyapps.com/
 - https://fslightbox.com/
 
+# Caraousels
+- https://ganlanyuan.github.io/tiny-slider/demo/
+- Swiper
+- Splide
+- Owl JQuery
+
 # Learn
 - https://learnxinyminutes.com/
 - https://learnjavascript.online/
