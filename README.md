@@ -174,6 +174,7 @@
 - Cabin
 - Manrope
 - Farro
+- Signika
 
 # Fonts for Brutalism Design
 - Bricolage
