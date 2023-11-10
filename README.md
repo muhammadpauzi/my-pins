@@ -173,6 +173,7 @@
 - https://www.thedesignership.com/blog/best-free-fonts-for-ui-design
 - Cabin
 - Manrope
+- Farro
 
 # Fonts for Brutalism Design
 - Bricolage
@@ -202,6 +203,9 @@
 - https://kamranahmed.info/toast
 - https://ned.im/noty (BEST)
 - https://izitoast.marcelodolza.com/ (BEST)
+
+# Smooth Scrolling
+- https://github.com/studio-freight/lenis (best)
 
 ## Tooltips
 - Tippyjs
