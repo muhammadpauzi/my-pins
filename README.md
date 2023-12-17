@@ -1,5 +1,6 @@
 - https://govisually.com/blog/free-design-resources/
-
+- https://unblast.com/
+- 
 # Color Tools
 
 - Whocanuse whocanuse.com
@@ -102,6 +103,9 @@
 - lucideicons
 - fontawesome
 - heroicons
+- https://iconsax.io/
+- https://unblast.com/icons/
+
 
 # Animations
 - https://lottiefiles.com/animation/landing-page
