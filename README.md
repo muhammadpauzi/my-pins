@@ -212,6 +212,7 @@
 - https://kamranahmed.info/toast
 - https://ned.im/noty (BEST)
 - https://izitoast.marcelodolza.com/ (BEST)
+- https://bootboxjs.com/ (bootstrap modal)
 
 # Smooth Scrolling
 - https://github.com/studio-freight/lenis (best)
