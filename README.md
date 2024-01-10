@@ -140,6 +140,7 @@
 - https://www.html-code-generator.com/
 - https://www.html-code-generator.com/css/snippets/loading-animation (Loading CSS Animation)
 - https://drawsql.app/templates/koel
+- https://laravel-code.tips/
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
@@ -181,6 +182,7 @@
 - Manrope
 - Farro
 - Signika
+- IBM Plex Sans
 
 # Fonts for Brutalism Design
 - Bricolage
