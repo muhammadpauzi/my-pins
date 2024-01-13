@@ -160,7 +160,7 @@
 - Sanity
 - Strapi
 
-# Fonts
+# Fonts (Google Fonts)
 - Segoe UI
 - Source Sans Pro
 - Public Sans
@@ -183,6 +183,8 @@
 - Farro
 - Signika
 - IBM Plex Sans
+- Noto Sans
+- Titillium Web
 
 # Fonts for Brutalism Design
 - Bricolage
