@@ -96,6 +96,9 @@
 - https://superdevresources.com/3d-illustrations-free/
 - https://www.uistore.design/categories/illustrations/
 - https://www.streamlinehq.com/
+  
+# SVGs
+- https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 
 # Icons
 - https://www.streamlinehq.com/
@@ -105,7 +108,6 @@
 - heroicons
 - https://iconsax.io/
 - https://unblast.com/icons/
-
 
 # Animations
 - https://lottiefiles.com/animation/landing-page
