@@ -99,6 +99,7 @@
   
 # SVGs
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
+- https://www.svgrepo.com/
 
 # Icons
 - https://www.streamlinehq.com/
