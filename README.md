@@ -1,29 +1,31 @@
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
-- 
-# Color Tools
 
-- Whocanuse whocanuse.com
-- Color.review color.review
-- Color Constrast checker colourcontrast.cc
-- Accessibleweb accessibleweb.com/color-contrast-cheker
-- Venngage venngage.com/tools/accessible-color-pallete-generator
+# UI / UX / Designs / Templates / Icons / SVGs
 
-# Designer tools and helper
+## Color Tools
 
-- Mockup designs mockups-design.com
-- Pixcap.com
-- Shortcuts.design
-- dirtylinestudio.com/freebies
-- uiverse.io
-- jitter.video
-- sketchvalley.com
+- https://whocanuse.com
+- https://color.review
+- Color Constrast checker https://colourcontrast.cc
+- Accessibleweb https://accessibleweb.com/color-contrast-cheker
+- Venngage https://venngage.com/tools/accessible-color-pallete-generator
+
+## Designer Tools & Helper
+
+- Mockup designs https://mockups-design.com
+- https://pixcap.com
+- https://shortcuts.design
+- https://dirtylinestudio.com/freebies
+- https://uiverse.io
+- https://jitter.video
+- https://sketchvalley.com
 - https://www.fontpair.co/
 - https://www.monotype.com/font-pairing#/
 
-# Website Designs
+## Website Designs
 
-- Cocok untuk blog detail : https://ahrefs.com/blog/seo-meta-tags/
+- https://ahrefs.com/blog/seo-meta-tags/ (Cocok untuk blog detail)
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
 - [Web Company Profile Inspiration](https://contentoo.com/)
@@ -34,7 +36,7 @@
 - https://erik.cat/ (Personal Website)
 - https://docs.flowfra.me/docs/laravel-trend (Example of simple concept of dashboard)
 
-# Dashboards **(Free)**
+## Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
 - https://demo.plainadmin.com/signin.html
 - https://windmill-dashboard.vercel.app/forms.html **(Tailwind)**
@@ -48,22 +50,11 @@
 - https://coreui.io/
 - https://www.bootstrapdash.com/bootstrap-free-admin-templates
   
-# CSS Blog Content Styles
+## CSS Blog Content Styles
 
 - https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown-light.css
 
-# Helpers
-- https://devhints.io/ (code2 dasar)
-- https://mem.dev/ (Untuk menyimpan snippet code)
-- https://www.csshero.org (css editor/apalah)
-- https://finddev.tools/ (Untuk menemukan tools)
-- https://www.useblackbox.io/ (Seperti GitHub Copilot)
-- https://devdocs.io/ (Satu untuk Semua Dokumentasi)
-- https://www.happyhues.co/ (Pallete Warna Website)
-- https://compressor.io/ (Compress Image)
-- https://realtimecolors.com
-
-# Background Generators
+## Background Generators
 - https://www.csshero.org/mesher/ [Gradient CSS Generator]
 - https://patternpad.com/
 - https://app.haikei.app/ (🌟)
@@ -73,10 +64,7 @@
 - https://codioful.com/
 - https://www.svgbackgrounds.com/
 
-# Generators
-- https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
-
-# Loaders
+## Loaders
 - https://cssloaders.github.io/ (🌟)
 - https://whirl.netlify.app/ (🌟)
 - https://loading.io/
@@ -84,7 +72,7 @@
 - https://codepen.io/vank0/pen/mrRwLg
 - https://10015.io/tools/css-loader-generator
 
-# Ilustrations
+## Ilustrations
 - https://www.manypixels.co/gallery
 - https://absurd.design/ (✨️)
 - https://www.drawkit.com/#browse-now-button (✨️)
@@ -97,11 +85,11 @@
 - https://www.uistore.design/categories/illustrations/
 - https://www.streamlinehq.com/
   
-# SVGs
+## SVGs
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com/
 
-# Icons
+## Icons
 - https://www.streamlinehq.com/
 - feathericons
 - lucideicons
@@ -110,15 +98,29 @@
 - https://iconsax.io/
 - https://unblast.com/icons/
 
-# Animations
+## Animations
 - https://lottiefiles.com/animation/landing-page
 
-# UI Designs
+## UI Designs
 - https://uidesigndaily.com/
 - https://storyset.com/people
 - https://codedesign.dev/ (Design with Resources File)
 - https://freebiesupply.com/
 - https://interfacer.xyz/
+
+## Helpers
+- https://devhints.io/ (code2 dasar)
+- https://mem.dev/ (Untuk menyimpan snippet code)
+- https://www.csshero.org (css editor/apalah)
+- https://finddev.tools/ (Untuk menemukan tools)
+- https://www.useblackbox.io/ (Seperti GitHub Copilot)
+- https://devdocs.io/ (Satu untuk Semua Dokumentasi)
+- https://www.happyhues.co/ (Pallete Warna Website)
+- https://compressor.io/ (Compress Image)
+- https://realtimecolors.com
+  
+# Generators
+- https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
 
 # Lightbox Libraries
 - https://fancyapps.com/
@@ -144,6 +146,13 @@
 - https://www.html-code-generator.com/css/snippets/loading-animation (Loading CSS Animation)
 - https://drawsql.app/templates/koel
 - https://laravel-code.tips/
+
+# WYSIWYG
+- https://tiptap.dev/
+- https://ckeditor.com/
+- https://quilljs.com/
+- https://editorjs.io/ (Block)
+- https://github.com/JefMari/awesome-wysiwyg-editors (More)
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
