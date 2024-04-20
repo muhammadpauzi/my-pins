@@ -1,6 +1,9 @@
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
 
+## 🌟
+- https://fffuel.co/
+
 # UI / UX / Designs / Templates / Icons / SVGs
 
 ## Color Tools
@@ -88,7 +91,9 @@
 ## SVGs
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com/
-- Doodles / Abstract Shapes: https://svgdoodles.com/
+- Doodles / Abstract Shapes:
+    - https://svgdoodles.com/
+    - https://fffuel.co/dddoodle/
 
 ## Icons
 - https://www.streamlinehq.com/
