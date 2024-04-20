@@ -88,6 +88,7 @@
 ## SVGs
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com/
+- Doodles / Abstract Shapes: https://svgdoodles.com/
 
 ## Icons
 - https://www.streamlinehq.com/
