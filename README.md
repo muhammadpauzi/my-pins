@@ -124,6 +124,9 @@
 - https://www.happyhues.co/ (Pallete Warna Website)
 - https://compressor.io/ (Compress Image)
 - https://realtimecolors.com
+
+# AI
+- https://huggingface.co/
   
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
