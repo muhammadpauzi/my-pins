@@ -206,6 +206,7 @@
 - IBM Plex Sans
 - Noto Sans
 - Titillium Web
+- Sora Font
 
 # Fonts for Brutalism Design
 - Bricolage
