@@ -1,6 +1,9 @@
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
 
+# Free Certifications
+- https://www.classcentral.com/report/free-developer-it-certifications/
+
 ## 🌟
 - https://fffuel.co/
 
