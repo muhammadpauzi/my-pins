@@ -7,7 +7,10 @@
 # Noise Sound (Free)
 - https://noises.online/
 - https://mynoise.net/
-  
+- https://asoftmurmur.com/
+- https://www.moodil.com/
+
+
 ## 🌟
 - https://fffuel.co/
 
