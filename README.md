@@ -4,6 +4,10 @@
 # Free Certifications
 - https://www.classcentral.com/report/free-developer-it-certifications/
 
+# Noise Sound (Free)
+- https://noises.online/
+- https://mynoise.net/
+  
 ## 🌟
 - https://fffuel.co/
 
