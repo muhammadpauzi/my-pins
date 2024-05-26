@@ -10,6 +10,13 @@
 - https://asoftmurmur.com/
 - https://www.moodil.com/
 
+# Wordpress Free Templates
+- https://wpastra.com/
+- https://creativethemes.com/blocksy/
+- https://www.phlox.pro/
+- https://rishitheme.com/
+- https://woostify.com/
+- https://themehunk.com/th-shop-mania/
 
 ## 🌟
 - https://fffuel.co/
