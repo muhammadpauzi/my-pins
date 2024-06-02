@@ -1,3 +1,5 @@
+# My Pinneds
+
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
 
@@ -30,6 +32,7 @@
 - Color Constrast checker https://colourcontrast.cc
 - Accessibleweb https://accessibleweb.com/color-contrast-cheker
 - Venngage https://venngage.com/tools/accessible-color-pallete-generator
+- https://huemint.com/brand-intersection/
 
 ## Designer Tools & Helper
 
@@ -43,8 +46,16 @@
 - https://www.fontpair.co/
 - https://www.monotype.com/font-pairing#/
 
-## Website Designs
+## Website Design Inspirations
 
+- https://godly.website/
+- https://www.lapa.ninja/
+- https://www.saaspo.com/
+- https://www.darkmodedesign.com/
+- https://www.landingfolio.com/
+- https://dribbble.com/
+- https://www.behance.net/
+- https://pinterest.com/
 - https://ahrefs.com/blog/seo-meta-tags/ (Cocok untuk blog detail)
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
@@ -83,6 +94,7 @@
 - https://meshgradient.in/
 - https://codioful.com/
 - https://www.svgbackgrounds.com/
+- https://www.shadergradient.co
 
 ## Loaders
 - https://cssloaders.github.io/ (🌟)
@@ -141,9 +153,28 @@
 - https://www.happyhues.co/ (Pallete Warna Website)
 - https://compressor.io/ (Compress Image)
 - https://realtimecolors.com
+- https://www.microcopy.me/ (Lorem Ipsum Alternative)
+
+## Mockup Generator
+- https://rotato.app/
+- https://www.animstats.com/
+- https://mockrocket.io/
+- https://shots.so/
+
+# Design Web App
+- https://www.kittl.com/
+- https://www.figma.com/
+- https://www.canva.com/
+- https://www.photopea.com/
+
+# Microcontroller, Arduino, ESP Playground
+- https://wokwi.com/
+- https://www.tinkercad.com/
 
 # AI
 - https://huggingface.co/
+- https://domoai.app/
+- https://www.heygen.com/
   
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
