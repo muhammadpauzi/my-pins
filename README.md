@@ -223,6 +223,7 @@
   
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
+- https://behold.so/
 
 # Lightbox Libraries
 - https://fancyapps.com/
