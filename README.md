@@ -50,6 +50,7 @@
 - https://untools.co/
 - https://uxarchive.com/
 - https://www.toools.design/
+- https://www.brandguidelines.net/
 
 ## Website Design Inspirations
 
@@ -124,6 +125,7 @@
 - https://superdevresources.com/3d-illustrations-free/
 - https://www.uistore.design/categories/illustrations/
 - https://www.streamlinehq.com/
+- https://sapiens.ui8.net/6m5c3w7
   
 ## SVGs
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
@@ -141,6 +143,9 @@
 - https://iconsax.io/
 - https://unblast.com/icons/
 
+## Textures
+- https://texturelabs.org/
+
 ## Animations
 - https://lottiefiles.com/animation/landing-page
 
@@ -150,6 +155,7 @@
 - https://codedesign.dev/ (Design with Resources File)
 - https://freebiesupply.com/
 - https://interfacer.xyz/
+- https://uiverse.io/
 
 ## Helpers
 - https://devhints.io/ (code2 dasar)
@@ -168,6 +174,7 @@
 - https://www.animstats.com/
 - https://mockrocket.io/
 - https://shots.so/
+- https://www.pacdora.com/
 
 # Design Web App
 - https://www.kittl.com/
@@ -198,6 +205,7 @@
 - https://blueprintjs.com/
 - https://rsuitejs.com/
 - https://marmelab.com/react-admin/
+- https://chr15m.github.io/DoodleCSS/
 
 # Page Builder
 - https://prismic.io
@@ -267,6 +275,8 @@
 - Strapi
 
 # Fonts (Google Fonts)
+- https://fontjoy.com/
+- https://modernfontstacks.com/
 - Segoe UI
 - Source Sans Pro
 - Public Sans
