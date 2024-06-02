@@ -34,7 +34,7 @@
 - Venngage https://venngage.com/tools/accessible-color-pallete-generator
 - https://huemint.com/brand-intersection/
 
-## Designer Tools & Helper
+## Designer Tools, Helpers, Inspirations
 
 - Mockup designs https://mockups-design.com
 - https://pixcap.com
@@ -45,6 +45,11 @@
 - https://sketchvalley.com
 - https://www.fontpair.co/
 - https://www.monotype.com/font-pairing#/
+- https://shortcuts.design/
+- https://typescale.com/
+- https://untools.co/
+- https://uxarchive.com/
+- https://www.toools.design/
 
 ## Website Design Inspirations
 
@@ -53,9 +58,11 @@
 - https://www.saaspo.com/
 - https://www.darkmodedesign.com/
 - https://www.landingfolio.com/
+- https://saaslandingpage.com/
 - https://dribbble.com/
 - https://www.behance.net/
 - https://pinterest.com/
+- https://uxarchive.com/
 - https://ahrefs.com/blog/seo-meta-tags/ (Cocok untuk blog detail)
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
@@ -99,6 +106,7 @@
 ## Loaders
 - https://cssloaders.github.io/ (🌟)
 - https://whirl.netlify.app/ (🌟)
+- https://uiball.com/ldrs/ (🌟)
 - https://loading.io/
 - https://www.cssportal.com/css-loader-generator/
 - https://codepen.io/vank0/pen/mrRwLg
@@ -170,6 +178,35 @@
 # Microcontroller, Arduino, ESP Playground
 - https://wokwi.com/
 - https://www.tinkercad.com/
+
+# Web UI Library
+- https://ui.aceternity.com/
+- https://ui.shadcn.com/
+- https://nextui.org/
+- https://mui.com/
+- https://headlessui.com/
+- https://mantine.dev/
+- https://www.radix-ui.com/
+- https://chakra-ui.com/
+- https://ant.design/
+- https://react-bootstrap.netlify.app/
+- https://primereact.org/
+- https://react.semantic-ui.com/
+- https://v2.grommet.io/
+- https://onsen.io/v2/guide/react/
+- https://tailwindui.com/
+- https://blueprintjs.com/
+- https://rsuitejs.com/
+- https://marmelab.com/react-admin/
+
+# Page Builder
+- https://prismic.io
+
+# Freelancer Platforms
+- https://www.peopleperhour.com/
+- https://comeup.com/en/
+- https://www.ifyoucouldjobs.com/
+- https://workingnotworking.com/
 
 # AI
 - https://huggingface.co/
@@ -255,6 +292,9 @@
 - Noto Sans
 - Titillium Web
 - Sora Font
+- https://fonts.google.com/specimen/Syne
+- https://fonts.google.com/specimen/Alegreya?query=alegreya
+- https://fonts.google.com/specimen/Eczar?query=eczar
 
 # Fonts for Brutalism Design
 - Bricolage
