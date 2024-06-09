@@ -139,6 +139,7 @@
 - feathericons
 - lucideicons
 - fontawesome
+- https://iconify.design/
 - heroicons
 - https://iconsax.io/
 - https://unblast.com/icons/
