@@ -221,7 +221,8 @@
 - https://huggingface.co/
 - https://domoai.app/
 - https://www.heygen.com/
-  
+- https://elevenlabs.io/app/speech-synthesis
+
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
 - https://behold.so/
