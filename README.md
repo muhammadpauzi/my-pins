@@ -1,4 +1,4 @@
-# My Pinneds
+# My Pins
 
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
@@ -308,6 +308,7 @@
 - https://fonts.google.com/specimen/Syne
 - https://fonts.google.com/specimen/Alegreya?query=alegreya
 - https://fonts.google.com/specimen/Eczar?query=eczar
+- https://fonts.google.com/specimen/Pathway+Extreme
 
 # Fonts for Brutalism Design
 - Bricolage
