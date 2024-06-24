@@ -2,7 +2,8 @@
 
 - https://govisually.com/blog/free-design-resources/
 - https://unblast.com/
-
+- https://madewithlaravel.com
+  
 # Free Certifications
 - https://www.classcentral.com/report/free-developer-it-certifications/
 
