@@ -75,6 +75,7 @@
 - https://www.scalahosting.com 
 - https://erik.cat/ (Personal Website)
 - https://docs.flowfra.me/docs/laravel-trend (Example of simple concept of dashboard)
+- https://www.qwick.com/
 
 ## Dashboards **(Free)**
 - https://preview.tabler.io/form-elements.html
