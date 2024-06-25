@@ -115,6 +115,9 @@
 - https://codepen.io/vank0/pen/mrRwLg
 - https://10015.io/tools/css-loader-generator
 
+# Free Images
+- https://stockcake.com/
+
 ## Ilustrations
 - https://www.manypixels.co/gallery
 - https://absurd.design/ (✨️)
