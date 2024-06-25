@@ -311,6 +311,7 @@
 - https://fonts.google.com/specimen/Alegreya?query=alegreya
 - https://fonts.google.com/specimen/Eczar?query=eczar
 - https://fonts.google.com/specimen/Pathway+Extreme
+- https://fonts.google.com/specimen/Instrument+Sans
 
 # Fonts for Brutalism Design
 - Bricolage
