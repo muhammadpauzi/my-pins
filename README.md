@@ -116,8 +116,11 @@
 - https://codepen.io/vank0/pen/mrRwLg
 - https://10015.io/tools/css-loader-generator
 
-# Free Images
-- https://stockcake.com/
+# AI Generated Free Images
+- https://stockcake.com
+
+# AI Generated Free Music
+- https://stocktune.com
 
 ## Ilustrations
 - https://www.manypixels.co/gallery
