@@ -326,6 +326,7 @@
 - Unbounded
 - Della gothic one
 - Galgo
+- https://fonts.google.com/specimen/Calistoga
 
 # Analytics
 - https://splitbee.io/
