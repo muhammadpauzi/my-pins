@@ -4,9 +4,13 @@
 - https://unblast.com/
 - https://madewithlaravel.com
 - https://cartzilla.createx.studio/docs/credits.html
+
+# Free Resources
+- https://www.untitledui.com/logos
   
 # Free Certifications
 - https://www.classcentral.com/report/free-developer-it-certifications/
+- https://logoipsum.com/
 
 # Noise Sound (Free)
 - https://noises.online/
