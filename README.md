@@ -5,6 +5,24 @@
 - https://madewithlaravel.com
 - https://cartzilla.createx.studio/docs/credits.html
 
+# My Tech
+
+## Whatsapp Gateway
+- https://fonnte.com/
+- https://onesender.net/
+
+## Top Up
+- https://id.digiflazz.com/
+- https://bisnis.vocagame.com/
+- https://vip-reseller.co.id/page/api/game-feature
+
+## Payment Gateway
+- https://midtrans.com
+- https://tripay.co.id/
+- https://flip.id/business
+- https://durianpay.id/
+- https://www.xendit.co/
+
 # Free Resources
 - https://www.untitledui.com/logos
 - https://logoipsum.com/
