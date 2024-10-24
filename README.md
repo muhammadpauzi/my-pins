@@ -303,6 +303,9 @@
 # TailwindCSS & The Plugins
 - Cocok untuk markdown style content : https://tailwindcss.com/docs/typography-plugin
 
+# AlpineJS
+- https://devdojo.com/pines/docs/introduction
+
 # Headless CMS
 - [Payload CMS](https://payloadcms.com/)
 - [HyGraph CMS](https://hygraph.com/)
