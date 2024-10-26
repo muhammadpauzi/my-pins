@@ -175,6 +175,7 @@
 - heroicons
 - https://iconsax.io/
 - https://unblast.com/icons/
+- https://nucleoapp.com/free-icons
 
 ## Textures
 - https://texturelabs.org/
