@@ -4,6 +4,7 @@
 - https://unblast.com/
 - https://madewithlaravel.com
 - https://cartzilla.createx.studio/docs/credits.html
+- https://uigoodies.com/illustrations
 
 # My Tech
 
@@ -165,7 +166,7 @@
 - Doodles / Abstract Shapes:
     - https://svgdoodles.com/
     - https://fffuel.co/dddoodle/
-    - https://www.highlights.design/?ref=uigoodies.com
+    - https://www.highlights.design
 
 ## Icons
 - https://www.streamlinehq.com/
