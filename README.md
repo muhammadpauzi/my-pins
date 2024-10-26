@@ -165,6 +165,7 @@
 - Doodles / Abstract Shapes:
     - https://svgdoodles.com/
     - https://fffuel.co/dddoodle/
+    - https://www.highlights.design/?ref=uigoodies.com
 
 ## Icons
 - https://www.streamlinehq.com/
