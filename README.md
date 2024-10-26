@@ -176,6 +176,7 @@
 - https://iconsax.io/
 - https://unblast.com/icons/
 - https://nucleoapp.com/free-icons
+- https://simpleicons.org (Brand Icons)
 
 ## Textures
 - https://texturelabs.org/
