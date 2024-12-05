@@ -258,6 +258,7 @@
 - https://domoai.app/
 - https://www.heygen.com/
 - https://elevenlabs.io/app/speech-synthesis
+- https://uifaces.co/
 
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
