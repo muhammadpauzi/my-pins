@@ -25,6 +25,9 @@
 - https://durianpay.id/
 - https://www.xendit.co/
 
+# E-Mail Templates (HTML)
+- https://tabular.email/
+
 # Free Resources
 - https://www.untitledui.com/logos
 - https://logoipsum.com/
