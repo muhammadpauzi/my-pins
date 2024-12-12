@@ -354,6 +354,7 @@
 - https://fonts.google.com/specimen/Pathway+Extreme
 - https://fonts.google.com/specimen/Instrument+Sans
 - https://fonts.google.com/specimen/Unbounded
+- https://github.com/github/mona-sans
 
 # Fonts for Brutalism Design
 - Bricolage
