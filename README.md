@@ -355,6 +355,8 @@
 - https://fonts.google.com/specimen/Instrument+Sans
 - https://fonts.google.com/specimen/Unbounded
 - https://github.com/github/mona-sans
+- https://fonts.google.com/specimen/Mona+Sans
+- https://fonts.google.com/specimen/Plus+Jakarta+Sans
 
 # Fonts for Brutalism Design
 - Bricolage
