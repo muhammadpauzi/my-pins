@@ -358,6 +358,7 @@
 - https://fonts.google.com/specimen/Mona+Sans
 - https://fonts.google.com/specimen/Plus+Jakarta+Sans
 - https://fonts.google.com/specimen/Asap
+- https://fonts.google.com/specimen/Gabarito
 
 # Fonts for Brutalism Design
 - Bricolage
