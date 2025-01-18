@@ -359,6 +359,7 @@
 - https://fonts.google.com/specimen/Plus+Jakarta+Sans
 - https://fonts.google.com/specimen/Asap
 - https://fonts.google.com/specimen/Gabarito
+- https://fonts.google.com/specimen/Paytone+One
 
 # Fonts for Brutalism Design
 - Bricolage
