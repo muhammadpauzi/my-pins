@@ -298,6 +298,8 @@
 - https://quilljs.com/
 - https://editorjs.io/ (Block)
 - https://github.com/JefMari/awesome-wysiwyg-editors (More)
+- https://trix-editor.org/
+- https://summernote.org/
 
 # React
 - React Hooks : React Use, React Haiku, Rooks
