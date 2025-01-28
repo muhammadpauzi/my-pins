@@ -185,6 +185,7 @@
 
 ## Textures
 - https://texturelabs.org/
+- https://www.transparenttextures.com/
 
 ## Animations
 - https://lottiefiles.com/animation/landing-page
