@@ -295,6 +295,9 @@
 
 # WYSIWYG
 - https://tiptap.dev/
+- https://lexical.dev/
+- https://www.slatejs.org/examples/richtext
+- https://platejs.org/
 - https://ckeditor.com/
 - https://quilljs.com/
 - https://editorjs.io/ (Block)
