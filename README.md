@@ -390,6 +390,11 @@
 
 # Javascript Libs
 
+## Toast
+- https://react-hot-toast.com/
+- https://sonner.emilkowal.ski/
+- https://fkhadra.github.io/react-toastify/introduction/
+
 ## Toasts, Notifactions, Alerts & Dialogs
 - https://notifyjs.jpillora.com/
 - https://alertifyjs.com/
