@@ -327,6 +327,7 @@
 - Strapi
 
 # Fonts (Google Fonts)
+- https://www.fontshare.com/
 - https://fontjoy.com/
 - https://modernfontstacks.com/
 - Segoe UI
