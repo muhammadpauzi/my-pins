@@ -412,6 +412,13 @@
 - Tippyjs
 - popover
 
+## React Date Picker
+- https://react-tailwindcss-datepicker.vercel.app
+- https://reactdatepicker.com
+
+## React Select
+- https://react-select.com/home
+
 ## Input File
 - FilePond
 - Dropzone
