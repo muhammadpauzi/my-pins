@@ -306,6 +306,11 @@
 - https://trix-editor.org/
 - https://summernote.org/
 
+## Chartjs
+- https://www.ag-grid.com/charts/
+- https://ui.shadcn.com/charts
+- https://www.chartjs.org/
+
 # React
 - React Hooks : React Use, React Haiku, Rooks
 - Other : React Table, React Draggable, React Helmet
