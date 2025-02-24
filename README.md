@@ -247,6 +247,7 @@
 - https://rsuitejs.com/
 - https://marmelab.com/react-admin/
 - https://chr15m.github.io/DoodleCSS/
+- https://originui.com/table
 
 # Page Builder
 - https://prismic.io
@@ -415,6 +416,10 @@
 ## React Date Picker
 - https://react-tailwindcss-datepicker.vercel.app
 - https://reactdatepicker.com
+
+## Data Tables
+- https://tanstack.com/table
+- https://www.ag-grid.com/react-data-grid
 
 ## React Select
 - https://react-select.com/home
