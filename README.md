@@ -248,6 +248,7 @@
 - https://marmelab.com/react-admin/
 - https://chr15m.github.io/DoodleCSS/
 - https://originui.com/table
+- https://www.heroui.com
 
 # Page Builder
 - https://prismic.io
