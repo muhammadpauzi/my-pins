@@ -375,6 +375,7 @@
 - https://fonts.google.com/specimen/Gabarito
 - https://fonts.google.com/specimen/Paytone+One
 - https://fonts.google.com/specimen/Onest
+- https://fonts.google.com/specimen/Miriam+Libre
 
 # Fonts for Brutalism Design
 - Bricolage
