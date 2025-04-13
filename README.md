@@ -229,6 +229,7 @@
 
 # Web UI Library
 - https://react-spectrum.adobe.com/react-aria 🌟
+- https://intentui.com 🌟
 - https://ui.aceternity.com/
 - https://ui.shadcn.com/
 - https://nextui.org/
