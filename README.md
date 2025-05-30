@@ -54,6 +54,10 @@
 
 # UI / UX / Designs / Templates / Icons / SVGs
 
+# Avatars
+- https://unblast.com/free-3d-animoji-avatars/
+- https://uifaces.co/
+
 ## Color Tools
 
 - https://whocanuse.com
