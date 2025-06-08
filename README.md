@@ -368,6 +368,7 @@
 - Noto Sans
 - Titillium Web
 - Sora Font
+- https://fonts.google.com/specimen/Work+Sans
 - https://fonts.google.com/specimen/Syne
 - https://fonts.google.com/specimen/Alegreya?query=alegreya
 - https://fonts.google.com/specimen/Eczar?query=eczar
