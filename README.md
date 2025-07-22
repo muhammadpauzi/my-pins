@@ -392,6 +392,7 @@
 - Della gothic one
 - Galgo
 - https://fonts.google.com/specimen/Calistoga
+- https://www.fontshare.com/fonts/clash-display
 
 # Analytics
 - https://splitbee.io/
