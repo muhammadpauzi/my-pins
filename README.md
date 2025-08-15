@@ -137,6 +137,7 @@
 - https://codioful.com/
 - https://www.svgbackgrounds.com/
 - https://www.shadergradient.co
+- https://patterncraft.fun/
 
 ## Loaders
 - https://cssloaders.github.io/ (🌟)
