@@ -385,6 +385,7 @@
 - https://fonts.google.com/specimen/Onest
 - https://fonts.google.com/specimen/Miriam+Libre
 - https://fonts.google.com/noto/specimen/Noto+Serif
+- https://fonts.google.com/specimen/PT+Serif
 
 # Fonts for Brutalism Design
 - Bricolage
