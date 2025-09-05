@@ -386,6 +386,7 @@
 - https://fonts.google.com/specimen/Miriam+Libre
 - https://fonts.google.com/noto/specimen/Noto+Serif
 - https://fonts.google.com/specimen/PT+Serif
+- https://fonts.google.com/specimen/Readex+Pro
 
 # Fonts for Brutalism Design
 - Bricolage
