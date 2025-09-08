@@ -165,12 +165,20 @@
 - https://codepen.io/vank0/pen/mrRwLg
 - https://10015.io/tools/css-loader-generator
 
-# AI Generated Free Images
+## AI Generated Free Images
 - https://stockcake.com
 - https://www.lummi.ai/
 
-# AI Generated Free Music
+## AI Generated Free Music
 - https://stocktune.com
+
+## AI
+- https://huggingface.co/
+- https://domoai.app/
+- https://www.heygen.com/
+- https://elevenlabs.io/app/speech-synthesis
+- https://uifaces.co/
+- https://speechma.com/
 
 ## Ilustrations
 - https://www.manypixels.co/gallery
@@ -321,13 +329,6 @@
 - https://comeup.com/en/
 - https://www.ifyoucouldjobs.com/
 - https://workingnotworking.com/
-
-# AI
-- https://huggingface.co/
-- https://domoai.app/
-- https://www.heygen.com/
-- https://elevenlabs.io/app/speech-synthesis
-- https://uifaces.co/
 
 # Generators
 - https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
