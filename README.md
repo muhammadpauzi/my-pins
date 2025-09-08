@@ -157,111 +157,111 @@
 - https://patterns.helloyes.de
 
 ## Loaders
-- https://cssloaders.github.io/ (🌟)
-- https://whirl.netlify.app/ (🌟)
-- https://uiball.com/ldrs/ (🌟)
-- https://loading.io/
-- https://www.cssportal.com/css-loader-generator/
+- https://cssloaders.github.io 🌟
+- https://whirl.netlify.app 🌟
+- https://uiball.com/ldrs 🌟
+- https://loading.io
+- https://www.cssportal.com/css-loader-generator
 - https://codepen.io/vank0/pen/mrRwLg
 - https://10015.io/tools/css-loader-generator
 
 ## AI Generated Free Images
 - https://stockcake.com
-- https://www.lummi.ai/
+- https://www.lummi.ai
 
 ## AI Generated Free Music
 - https://stocktune.com
 
 ## AI
-- https://huggingface.co/
-- https://domoai.app/
-- https://www.heygen.com/
+- https://huggingface.co
+- https://domoai.app
+- https://www.heygen.com
 - https://elevenlabs.io/app/speech-synthesis
-- https://uifaces.co/
-- https://speechma.com/
+- https://uifaces.co
+- https://speechma.com
 
 ## Ilustrations
 - https://www.manypixels.co/gallery
-- https://absurd.design/ (✨️)
-- https://www.drawkit.com/#browse-now-button (✨️)
-- https://iradesign.io/
+- https://absurd.design ✨️
+- https://www.drawkit.com/#browse-now-button ✨️
+- https://iradesign.io
 - https://www.manypixels.co/gallery
-- https://icons8.com/illustrations (✨️)
+- https://icons8.com/illustrations ✨️
 - https://popsy.co/illustrations
-- https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
-- https://superdevresources.com/3d-illustrations-free/
-- https://www.uistore.design/categories/illustrations/
-- https://www.streamlinehq.com/
+- https://www.lapa.ninja/blog/free-illustrations-library-for-your-project
+- https://superdevresources.com/3d-illustrations-free
+- https://www.uistore.design/categories/illustrations
+- https://www.streamlinehq.com
 - https://sapiens.ui8.net/6m5c3w7
 
 ## 3D, Isometric
-- https://bnbicons.com/
+- https://bnbicons.com
   
 ## SVGs
-- https://www.sinwaver.com/
-- https://3dicons.co/ (3d)
-- https://www.durves.com/
+- https://www.sinwaver.com
+- https://3dicons.co (3d)
+- https://www.durves.com
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
-- https://www.svgrepo.com/
+- https://www.svgrepo.com
 - Doodles / Abstract Shapes:
-    - https://svgdoodles.com/
-    - https://fffuel.co/dddoodle/
+    - https://svgdoodles.com
+    - https://fffuel.co/dddoodle
     - https://www.highlights.design
-    - https://coolshap.es/
+    - https://coolshap.es
  
 ## PNGs
-- https://pngimg.com/
+- https://pngimg.com
 
 ## Icons
-- https://www.streamlinehq.com/
+- https://www.streamlinehq.com
 - feathericons
 - lucideicons
 - fontawesome
-- https://iconify.design/
+- https://iconify.design
 - heroicons
-- https://iconsax.io/
-- https://unblast.com/icons/
+- https://iconsax.io
+- https://unblast.com/icons
 - https://nucleoapp.com/free-icons
 - https://simpleicons.org (Brand Icons)
-- https://3dicons.co/ (3d)
+- https://3dicons.co (3d)
 
 ## Textures
-- https://texturelabs.org/
-- https://www.transparenttextures.com/
-- https://www.durves.com/
+- https://texturelabs.org
+- https://www.transparenttextures.com
+- https://www.durves.com
 
 ## Animations
 - https://lottiefiles.com/animation/landing-page
-- https://phase.com/
+- https://phase.com
 
 ## UI Designs
-- https://uidesigndaily.com/
+- https://uidesigndaily.com
 - https://storyset.com/people
-- https://codedesign.dev/ (Design with Resources File)
-- https://freebiesupply.com/
-- https://interfacer.xyz/
-- https://uiverse.io/
-- https://fountn.design/
+- https://codedesign.dev (Design with Resources File)
+- https://freebiesupply.com
+- https://interfacer.xyz
+- https://uiverse.io
+- https://fountn.design
 
 # Random Assets
-- https://public.work/
-- https://www.whirrls.com/
+- https://public.work
+- https://www.whirrls.com
 
 # Random Generator
-- https://liquid.paper.design/
-- https://spacetypegenerator.com/
+- https://liquid.paper.design
+- https://spacetypegenerator.com
 
 ## Helpers
-- https://devhints.io/ (code2 dasar)
-- https://mem.dev/ (Untuk menyimpan snippet code)
+- https://devhints.io (code2 dasar)
+- https://mem.dev (Untuk menyimpan snippet code)
 - https://www.csshero.org (css editor/apalah)
-- https://finddev.tools/ (Untuk menemukan tools)
-- https://www.useblackbox.io/ (Seperti GitHub Copilot)
-- https://devdocs.io/ (Satu untuk Semua Dokumentasi)
-- https://www.happyhues.co/ (Pallete Warna Website)
-- https://compressor.io/ (Compress Image)
+- https://finddev.tools (Untuk menemukan tools)
+- https://www.useblackbox.io (Seperti GitHub Copilot)
+- https://devdocs.io (Satu untuk Semua Dokumentasi)
+- https://www.happyhues.co (Pallete Warna Website)
+- https://compressor.io (Compress Image)
 - https://realtimecolors.com
-- https://www.microcopy.me/ (Lorem Ipsum Alternative)
+- https://www.microcopy.me (Lorem Ipsum Alternative)
 
 ## Mockups (Assets/Generator)
 - https://rotato.app
@@ -270,137 +270,27 @@
 - https://shots.so
 - https://www.pacdora.com
 - https://www.packify.ai
-- https://www.ls.graphics/
-- https://shots.so/
+- https://www.ls.graphics
+- https://shots.so
 
 ## React
-- https://reactbits.dev/
+- https://reactbits.dev
 - https://react-spectrum.adobe.com/react-aria 🌟
 - https://intentui.com 🌟
 
 # Design Web App
-- https://www.kittl.com/
-- https://www.figma.com/
-- https://www.canva.com/
-- https://www.photopea.com/
-- https://frame0.app/ (wireframe/sketch)
+- https://www.kittl.com
+- https://www.figma.com
+- https://www.canva.com
+- https://www.photopea.com
+- https://frame0.app (wireframe/sketch)
 
-# Figma Plugins
-- Supa Pallete @angelolibero
-- Autoflow @davidyitong
-- Breakpoints @floweare
-- Typescales @marvin
-- https://bestfigmaplugins.com/
-
-# Microcontroller, Arduino, ESP Playground
-- https://wokwi.com/
-- https://www.tinkercad.com/
-
-# Web UI Library
-- https://react-spectrum.adobe.com/react-aria 🌟
-- https://intentui.com 🌟
-- https://ui.aceternity.com/
-- https://ui.shadcn.com/
-- https://nextui.org/
-- https://mui.com/
-- https://headlessui.com/
-- https://mantine.dev/
-- https://www.radix-ui.com/
-- https://chakra-ui.com/
-- https://ant.design/
-- https://react-bootstrap.netlify.app/
-- https://primereact.org/
-- https://react.semantic-ui.com/
-- https://v2.grommet.io/
-- https://onsen.io/v2/guide/react/
-- https://tailwindui.com/
-- https://blueprintjs.com/
-- https://rsuitejs.com/
-- https://marmelab.com/react-admin/
-- https://chr15m.github.io/DoodleCSS/
-- https://originui.com/table
-- https://www.heroui.com
-
-# Page Builder
-- https://prismic.io
-
-# Freelancer Platforms
-- https://www.peopleperhour.com/
-- https://comeup.com/en/
-- https://www.ifyoucouldjobs.com/
-- https://workingnotworking.com/
-
-# Generators
-- https://www.embedista.com/ (Embded Generator HTML for IG, Facebook, etc...)
-- https://behold.so/
-
-# Lightbox Libraries
-- https://fancyapps.com/
-- https://fslightbox.com/
-
-# Caraousels
-- https://ganlanyuan.github.io/tiny-slider/demo/
-- Swiper
-- Splide
-- Owl JQuery
-
-# Learn
-- https://learnxinyminutes.com/
-- https://learnjavascript.online/
-- GraphQL
-  - [Part 1](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-a-complete-guide-part-1-setup-cddceae25bdc)
-  - [Part 2](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293)
-  - [Part 3](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-d20c920a4494)
-
-# Cheet Sheets
-- https://overapi.com/
-- https://www.html-code-generator.com/
-- https://www.html-code-generator.com/css/snippets/loading-animation (Loading CSS Animation)
-- https://drawsql.app/templates/koel
-- https://laravel-code.tips/
-
-# WYSIWYG
-- https://tiptap.dev/
-- https://lexical.dev/
-- https://www.slatejs.org/examples/richtext
-- https://platejs.org/
-- https://ckeditor.com/
-- https://quilljs.com/
-- https://editorjs.io/ (Block)
-- https://github.com/JefMari/awesome-wysiwyg-editors (More)
-- https://trix-editor.org/
-- https://summernote.org/
-
-## Chartjs
-- https://www.ag-grid.com/charts/
-- https://ui.shadcn.com/charts
-- https://www.chartjs.org/
-
-# React
-- React Hooks : React Use, React Haiku, Rooks
-- Other : React Table, React Draggable, React Helmet
-- Icons : React Icons, @heroicons/react
-- State & Data Fetching : React Query, Axios, Redux Toolkit, Zustand
-- Animations : Framer Motion, React Spring. GSAP
-- TailwindCSS Stack : @headlessui/react, tailwindcss, @heroicons/react
-- UI : Base Web, Chackra UI, Material UI
-
-# TailwindCSS & The Plugins
-- Cocok untuk markdown style content : https://tailwindcss.com/docs/typography-plugin
-
-# AlpineJS
-- https://devdojo.com/pines/docs/introduction
-
-# Headless CMS
-- [Payload CMS](https://payloadcms.com/)
-- [HyGraph CMS](https://hygraph.com/)
-- Sanity
-- Strapi
 
 # Fonts (Google Fonts)
 - https://www.fontshare.com/
 - https://fontjoy.com/
 - https://modernfontstacks.com/
+- https://www.thedesignership.com/blog/best-free-fonts-for-ui-design
 - Segoe UI
 - Source Sans Pro
 - Public Sans
@@ -417,15 +307,14 @@
 - Figtree
 - Nacelle
 - Be vietnam pro
-- https://www.thedesignership.com/blog/best-free-fonts-for-ui-design
 - Cabin
 - Manrope
-- Farro
-- Signika
-- IBM Plex Sans
-- Noto Sans
-- Titillium Web
-- Sora Font
+- https://fonts.google.com/specimen/Farro
+- https://fonts.google.com/specimen/Signika
+- https://fonts.google.com/specimen/IBM+Plex+Sans
+- https://fonts.google.com/noto/specimen/Noto+Sans
+- https://fonts.google.com/specimen/Titillium+Web
+- https://fonts.google.com/specimen/Sora
 - https://fonts.google.com/specimen/Work+Sans
 - https://fonts.google.com/specimen/Syne
 - https://fonts.google.com/specimen/Alegreya?query=alegreya
@@ -449,13 +338,127 @@
 - https://fonts.google.com/specimen/Kelly+Slab
 
 # Fonts for Brutalism Design
-- Bricolage
+- https://fonts.google.com/specimen/Bricolage+Grotesque
 - Lugati
-- Unbounded
+- https://fonts.google.com/specimen/Unbounded
 - Della gothic one
 - Galgo
 - https://fonts.google.com/specimen/Calistoga
 - https://www.fontshare.com/fonts/clash-display
+
+# Figma Plugins
+- Supa Pallete @angelolibero
+- Autoflow @davidyitong
+- Breakpoints @floweare
+- Typescales @marvin
+- https://bestfigmaplugins.com
+
+# Microcontroller, Arduino, ESP Playground
+- https://wokwi.com
+- https://www.tinkercad.com
+
+# Web UI Library
+- https://react-spectrum.adobe.com/react-aria 🌟
+- https://intentui.com 🌟
+- https://ui.aceternity.com
+- https://ui.shadcn.com
+- https://nextui.org
+- https://mui.com
+- https://headlessui.com
+- https://mantine.dev
+- https://www.radix-ui.com
+- https://chakra-ui.com
+- https://ant.design
+- https://react-bootstrap.netlify.app
+- https://primereact.org
+- https://react.semantic-ui.com
+- https://v2.grommet.io
+- https://onsen.io/v2/guide/react
+- https://tailwindui.com
+- https://blueprintjs.com
+- https://rsuitejs.com
+- https://marmelab.com/react-admin
+- https://chr15m.github.io/DoodleCSS
+- https://originui.com/table
+- https://www.heroui.com
+
+# Page Builder
+- https://prismic.io
+
+# Freelancer Platforms
+- https://www.peopleperhour.com
+- https://comeup.com/en
+- https://www.ifyoucouldjobs.com
+- https://workingnotworking.com
+
+# Generators
+- https://www.embedista.com (Embded Generator HTML for IG, Facebook, etc...)
+- https://behold.so
+
+# Lightbox Libraries
+- https://fancyapps.com
+- https://fslightbox.com
+
+# Caraousels
+- https://ganlanyuan.github.io/tiny-slider/demo/
+- Swiper
+- Splide
+- Owl JQuery
+
+# Learn
+- https://learnxinyminutes.com
+- https://learnjavascript.online
+- GraphQL
+  - [Part 1](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-a-complete-guide-part-1-setup-cddceae25bdc)
+  - [Part 2](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293)
+  - [Part 3](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-d20c920a4494)
+
+# Cheet Sheets
+- https://overapi.com
+- https://www.html-code-generator.com
+- https://www.html-code-generator.com/css/snippets/loading-animation (Loading CSS Animation)
+- https://drawsql.app/templates/koel
+- https://laravel-code.tips
+
+# WYSIWYG
+- https://tiptap.dev
+- https://lexical.dev
+- https://www.slatejs.org/examples/richtext
+- https://platejs.org
+- https://ckeditor.com
+- https://quilljs.com
+- https://editorjs.io/ (Block)
+- https://github.com/JefMari/awesome-wysiwyg-editors (More)
+- https://trix-editor.org
+- https://summernote.org
+
+## Chartjs
+- https://www.ag-grid.com/charts
+- https://ui.shadcn.com/charts
+- https://www.chartjs.org
+
+# React
+- React Hooks : React Use, React Haiku, Rooks
+- Other : React Table, React Draggable, React Helmet
+- Icons : React Icons, @heroicons/react
+- State & Data Fetching : React Query, Axios, Redux Toolkit, Zustand
+- Animations : Framer Motion, React Spring. GSAP
+- TailwindCSS Stack : @headlessui/react, tailwindcss, @heroicons/react
+- UI : Base Web, Chackra UI, Material UI
+
+# TailwindCSS & The Plugins
+- https://tailwindcss.com/docs/typography-plugin
+- https://github.com/jamiebuilds/tailwindcss-animate
+- https://github.com/tailwindlabs/tailwindcss-forms
+
+# AlpineJS
+- https://devdojo.com/pines/docs/introduction
+
+# Headless CMS
+- [Payload CMS](https://payloadcms.com/)
+- [HyGraph CMS](https://hygraph.com/)
+- Sanity
+- Strapi
 
 # Analytics
 - https://splitbee.io/
