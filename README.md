@@ -145,7 +145,7 @@
 - https://www.svgbackgrounds.com/
 - https://www.shadergradient.co
 - https://patterncraft.fun/
-- fluidmotion.app (Video)
+- https://fluidmotion.app (Video)
 - https://superdesigner.co/
 - https://www.durves.com/
 - https://www.magicpattern.design/
