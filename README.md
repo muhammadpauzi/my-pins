@@ -6,6 +6,7 @@
 - https://cartzilla.createx.studio/docs/credits.html
 - https://uigoodies.com/illustrations
 - https://resourceboy.com/
+- https://www.magicpattern.design/
 
 # My Tech
 
@@ -28,11 +29,6 @@
 
 ## E-Mail Templates (HTML)
 - https://tabular.email/
-
-## Free Resources
-- https://www.untitledui.com/logos
-- https://logoipsum.com/
-- https://www.footyrenders.com/
   
 ## Free Certifications
 - https://www.classcentral.com/report/free-developer-it-certifications/
@@ -89,7 +85,13 @@
 - https://superdesigner.co/
 - https://fountn.design/
 
-## Website Design Inspirations
+## Logo
+- http://logobook.com/
+- https://www.untitledui.com/logos
+- https://logoipsum.com/
+- https://www.footyrenders.com/
+
+## UI/UX Design Inspirations
 
 - https://godly.website/
 - https://www.lapa.ninja/
@@ -101,6 +103,11 @@
 - https://www.behance.net/
 - https://pinterest.com/
 - https://uxarchive.com/
+- https://www.dark.design/
+- https://motion.zajno.com/
+- https://abtest.design/
+
+## Real Website Design Inspirations
 - https://ahrefs.com/blog/seo-meta-tags/ (Cocok untuk blog detail)
 - [Login Page & Components](https://app.hygraph.com/signup)
 - [Navbar & Footer Inspiration](https://zaengle.com/blog/tailwind-typography-plugin)
@@ -145,6 +152,9 @@
 - fluidmotion.app (Video)
 - https://superdesigner.co/
 - https://www.durves.com/
+- https://www.magicpattern.design/
+- https://patternico.com/
+- https://patterns.helloyes.de
 
 ## Loaders
 - https://cssloaders.github.io/ (🌟)
@@ -181,6 +191,7 @@
   
 ## SVGs
 - https://www.sinwaver.com/
+- https://3dicons.co/ (3d)
 - https://www.durves.com/
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com/
@@ -204,6 +215,7 @@
 - https://unblast.com/icons/
 - https://nucleoapp.com/free-icons
 - https://simpleicons.org (Brand Icons)
+- https://3dicons.co/ (3d)
 
 ## Textures
 - https://texturelabs.org/
@@ -225,9 +237,11 @@
 
 # Random Assets
 - https://public.work/
+- https://www.whirrls.com/
 
 # Random Generator
 - https://liquid.paper.design/
+- https://spacetypegenerator.com/
 
 ## Helpers
 - https://devhints.io/ (code2 dasar)
@@ -251,11 +265,24 @@
 - https://www.ls.graphics/
 - https://shots.so/
 
+## React
+- https://reactbits.dev/
+- https://react-spectrum.adobe.com/react-aria 🌟
+- https://intentui.com 🌟
+
 # Design Web App
 - https://www.kittl.com/
 - https://www.figma.com/
 - https://www.canva.com/
 - https://www.photopea.com/
+- https://frame0.app/ (wireframe/sketch)
+
+# Figma Plugins
+- Supa Pallete @angelolibero
+- Autoflow @davidyitong
+- Breakpoints @floweare
+- Typescales @marvin
+- https://bestfigmaplugins.com/
 
 # Microcontroller, Arduino, ESP Playground
 - https://wokwi.com/
@@ -488,10 +515,5 @@
 # Others
 - https://github.com/elbywan/wretch
 
-# Figma Plugins
-- Supa Pallete @angelolibero
-- Autoflow @davidyitong
-- Breakpoints @floweare
-- Typescales @marvin
 - Table Creator @gavinmcfarland
 - Beautiful Shadows @aw
