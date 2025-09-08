@@ -49,6 +49,7 @@
 
 ## 🌟
 - https://fffuel.co/
+- https://superdesigner.co/
 
 ## UI / UX / Designs / Templates / Icons / SVGs
 
@@ -60,14 +61,13 @@
 
 - https://whocanuse.com
 - https://color.review
-- Color Constrast checker https://colourcontrast.cc
-- Accessibleweb https://accessibleweb.com/color-contrast-cheker
-- Venngage https://venngage.com/tools/accessible-color-pallete-generator
+- https://colourcontrast.cc
+- https://accessibleweb.com/color-contrast-cheker
+- https://venngage.com/tools/accessible-color-pallete-generator
 - https://huemint.com/brand-intersection/
 
 ## Designer Tools, Helpers, Inspirations
 
-- Mockup designs https://mockups-design.com
 - https://pixcap.com
 - https://shortcuts.design
 - https://dirtylinestudio.com/freebies
@@ -133,10 +133,6 @@
 - https://adminkit.io/
 - https://coreui.io/
 - https://www.bootstrapdash.com/bootstrap-free-admin-templates
-  
-## CSS Blog Content Styles
-
-- https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown-light.css
 
 ## Background Generators
 - https://www.csshero.org/mesher/ [Gradient CSS Generator]
@@ -264,6 +260,7 @@
 - https://www.microcopy.me (Lorem Ipsum Alternative)
 
 ## Mockups (Assets/Generator)
+- https://mockups-design.com
 - https://rotato.app
 - https://www.animstats.com
 - https://mockrocket.io
@@ -273,20 +270,14 @@
 - https://www.ls.graphics
 - https://shots.so
 
-## React
-- https://reactbits.dev
-- https://react-spectrum.adobe.com/react-aria 🌟
-- https://intentui.com 🌟
-
-# Design Web App
+## Design Web App
 - https://www.kittl.com
 - https://www.figma.com
 - https://www.canva.com
 - https://www.photopea.com
 - https://frame0.app (wireframe/sketch)
 
-
-# Fonts (Google Fonts)
+## Fonts (Google Fonts)
 - https://www.fontshare.com/
 - https://fontjoy.com/
 - https://modernfontstacks.com/
@@ -337,7 +328,7 @@
 - https://fonts.google.com/specimen/Epunda+Slab
 - https://fonts.google.com/specimen/Kelly+Slab
 
-# Fonts for Brutalism Design
+## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
 - Lugati
 - https://fonts.google.com/specimen/Unbounded
@@ -346,12 +337,16 @@
 - https://fonts.google.com/specimen/Calistoga
 - https://www.fontshare.com/fonts/clash-display
 
-# Figma Plugins
+## Figma Plugins
 - Supa Pallete @angelolibero
 - Autoflow @davidyitong
 - Breakpoints @floweare
 - Typescales @marvin
 - https://bestfigmaplugins.com
+
+# CSS Blog Content Styles
+
+- https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown-light.css
 
 # Microcontroller, Arduino, ESP Playground
 - https://wokwi.com
@@ -381,6 +376,11 @@
 - https://chr15m.github.io/DoodleCSS
 - https://originui.com/table
 - https://www.heroui.com
+
+# React
+- https://reactbits.dev
+- https://react-spectrum.adobe.com/react-aria 🌟
+- https://intentui.com 🌟
 
 # Page Builder
 - https://prismic.io
