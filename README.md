@@ -387,6 +387,7 @@
 - https://fonts.google.com/noto/specimen/Noto+Serif
 - https://fonts.google.com/specimen/PT+Serif
 - https://fonts.google.com/specimen/Readex+Pro
+- https://fonts.google.com/specimen/Karla
 
 # Fonts for Brutalism Design
 - Bricolage
