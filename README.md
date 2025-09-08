@@ -389,6 +389,7 @@
 - https://fonts.google.com/specimen/Readex+Pro
 - https://fonts.google.com/specimen/Karla
 - https://fonts.google.com/specimen/Epunda+Slab
+- https://fonts.google.com/specimen/Kelly+Slab
 
 # Fonts for Brutalism Design
 - Bricolage
