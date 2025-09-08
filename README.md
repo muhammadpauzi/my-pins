@@ -5,19 +5,20 @@
 - https://madewithlaravel.com
 - https://cartzilla.createx.studio/docs/credits.html
 - https://uigoodies.com/illustrations
+- https://resourceboy.com/
 
 # My Tech
 
-### Whatsapp Gateway
+## Whatsapp Gateway
 - https://fonnte.com/
 - https://onesender.net/
 
-### Top Up
+## Top Up
 - https://id.digiflazz.com/
 - https://bisnis.vocagame.com/
 - https://vip-reseller.co.id/page/api/game-feature
 
-### Payment Gateway
+## Payment Gateway
 - https://midtrans.com
 - https://tripay.co.id/
 - https://flip.id/business
@@ -25,23 +26,24 @@
 - https://durianpay.id/
 - https://www.xendit.co/
 
-# E-Mail Templates (HTML)
+## E-Mail Templates (HTML)
 - https://tabular.email/
 
-# Free Resources
+## Free Resources
 - https://www.untitledui.com/logos
 - https://logoipsum.com/
+- https://www.footyrenders.com/
   
-# Free Certifications
+## Free Certifications
 - https://www.classcentral.com/report/free-developer-it-certifications/
 
-# Noise Sound (Free)
+## Noise Sound (Free)
 - https://noises.online/
 - https://mynoise.net/
 - https://asoftmurmur.com/
 - https://www.moodil.com/
 
-# Wordpress Free Templates
+## Wordpress Free Templates
 - https://wpastra.com/
 - https://creativethemes.com/blocksy/
 - https://www.phlox.pro/
@@ -52,9 +54,9 @@
 ## 🌟
 - https://fffuel.co/
 
-# UI / UX / Designs / Templates / Icons / SVGs
+## UI / UX / Designs / Templates / Icons / SVGs
 
-# Avatars
+## Avatars
 - https://unblast.com/free-3d-animoji-avatars/
 - https://uifaces.co/
 
@@ -84,6 +86,8 @@
 - https://uxarchive.com/
 - https://www.toools.design/
 - https://www.brandguidelines.net/
+- https://superdesigner.co/
+- https://fountn.design/
 
 ## Website Design Inspirations
 
@@ -138,6 +142,9 @@
 - https://www.svgbackgrounds.com/
 - https://www.shadergradient.co
 - https://patterncraft.fun/
+- fluidmotion.app (Video)
+- https://superdesigner.co/
+- https://www.durves.com/
 
 ## Loaders
 - https://cssloaders.github.io/ (🌟)
@@ -150,6 +157,7 @@
 
 # AI Generated Free Images
 - https://stockcake.com
+- https://www.lummi.ai/
 
 # AI Generated Free Music
 - https://stocktune.com
@@ -167,14 +175,23 @@
 - https://www.uistore.design/categories/illustrations/
 - https://www.streamlinehq.com/
 - https://sapiens.ui8.net/6m5c3w7
+
+## 3D, Isometric
+- https://bnbicons.com/
   
 ## SVGs
+- https://www.sinwaver.com/
+- https://www.durves.com/
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com/
 - Doodles / Abstract Shapes:
     - https://svgdoodles.com/
     - https://fffuel.co/dddoodle/
     - https://www.highlights.design
+    - https://coolshap.es/
+ 
+## PNGs
+- https://pngimg.com/
 
 ## Icons
 - https://www.streamlinehq.com/
@@ -191,9 +208,11 @@
 ## Textures
 - https://texturelabs.org/
 - https://www.transparenttextures.com/
+- https://www.durves.com/
 
 ## Animations
 - https://lottiefiles.com/animation/landing-page
+- https://phase.com/
 
 ## UI Designs
 - https://uidesigndaily.com/
@@ -202,6 +221,13 @@
 - https://freebiesupply.com/
 - https://interfacer.xyz/
 - https://uiverse.io/
+- https://fountn.design/
+
+# Random Assets
+- https://public.work/
+
+# Random Generator
+- https://liquid.paper.design/
 
 ## Helpers
 - https://devhints.io/ (code2 dasar)
@@ -215,12 +241,15 @@
 - https://realtimecolors.com
 - https://www.microcopy.me/ (Lorem Ipsum Alternative)
 
-## Mockup Generator
-- https://rotato.app/
-- https://www.animstats.com/
-- https://mockrocket.io/
+## Mockups (Assets/Generator)
+- https://rotato.app
+- https://www.animstats.com
+- https://mockrocket.io
+- https://shots.so
+- https://www.pacdora.com
+- https://www.packify.ai
+- https://www.ls.graphics/
 - https://shots.so/
-- https://www.pacdora.com/
 
 # Design Web App
 - https://www.kittl.com/
