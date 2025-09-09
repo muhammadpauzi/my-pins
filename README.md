@@ -4,6 +4,7 @@
 - https://unblast.com/
 - https://madewithlaravel.com
 - https://cartzilla.createx.studio/docs/credits.html
+- https://cartzilla-html.createx.studio/docs/credits.html
 - https://uigoodies.com/illustrations
 - https://resourceboy.com/
 - https://www.magicpattern.design/
@@ -65,6 +66,7 @@
 - https://accessibleweb.com/color-contrast-cheker
 - https://venngage.com/tools/accessible-color-pallete-generator
 - https://huemint.com/brand-intersection/
+- https://huemint.com/
 
 ## Designer Tools, Helpers, Inspirations
 
@@ -106,6 +108,7 @@
 - https://www.dark.design/
 - https://motion.zajno.com/
 - https://abtest.design/
+- https://land-book.com/
 
 ## Real Website Design Inspirations
 - https://ahrefs.com/blog/seo-meta-tags/ (Cocok untuk blog detail)
@@ -135,22 +138,24 @@
 - https://www.bootstrapdash.com/bootstrap-free-admin-templates
 
 ## Background Generators
-- https://www.csshero.org/mesher/ [Gradient CSS Generator]
-- https://patternpad.com/
-- https://app.haikei.app/ (🌟)
-- https://bgjar.com/
-- https://coolbackgrounds.io/
-- https://meshgradient.in/
-- https://codioful.com/
-- https://www.svgbackgrounds.com/
+- https://www.csshero.org/mesher [Gradient CSS Generator]
+- https://patternpad.com
+- https://app.haikei.app (🌟)
+- https://bgjar.com
+- https://coolbackgrounds.io
+- https://meshgradient.in
+- https://codioful.com
+- https://www.svgbackgrounds.com
 - https://www.shadergradient.co
-- https://patterncraft.fun/
+- https://patterncraft.fun
 - https://fluidmotion.app (Video)
-- https://superdesigner.co/
-- https://www.durves.com/
-- https://www.magicpattern.design/
-- https://patternico.com/
+- https://superdesigner.co
+- https://www.durves.com
+- https://www.magicpattern.design
+- https://patternico.com
 - https://patterns.helloyes.de
+- https://meshgradient.com
+- http://mazeletter.xyz
 
 ## Loaders
 - https://cssloaders.github.io 🌟
@@ -199,11 +204,15 @@
 - https://www.durves.com
 - https://svgbox.net/iconsets (loaders, highlight marker, icons, flags)
 - https://www.svgrepo.com
+- https://flectofy.flecto.io
+- https://www.worldindots.com
 - Doodles / Abstract Shapes:
     - https://svgdoodles.com
     - https://fffuel.co/dddoodle
     - https://www.highlights.design
     - https://coolshap.es
+    - https://spectrums.framer.website
+    - https://shapeoholic.live
  
 ## PNGs
 - https://pngimg.com
@@ -239,13 +248,17 @@
 - https://uiverse.io
 - https://fountn.design
 
-# Random Assets
+## Other Assets
 - https://public.work
 - https://www.whirrls.com
 
-# Random Generator
+## Other Generator
 - https://liquid.paper.design
 - https://spacetypegenerator.com
+- https://www.worldindots.com
+
+## Etc
+- https://pushkeen.ai
 
 ## Helpers
 - https://devhints.io (code2 dasar)
@@ -337,14 +350,25 @@
 - https://fonts.google.com/specimen/Calistoga
 - https://www.fontshare.com/fonts/clash-display
 
-## Figma Plugins
+# Figma
+
+## Plugins
+
 - Supa Pallete @angelolibero
 - Autoflow @davidyitong
 - Breakpoints @floweare
 - Typescales @marvin
 - https://bestfigmaplugins.com
 
-# CSS Blog Content Styles
+## Tools & Helpers
+- https://uicolors.app/generate/915cb5
+
+# CSS
+
+## Helpers
+https://flexboxlabs.netlify.app/
+
+## Blog Content Styles
 
 - https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown-light.css
 
