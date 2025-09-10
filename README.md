@@ -340,6 +340,7 @@
 - https://fonts.google.com/specimen/Karla
 - https://fonts.google.com/specimen/Epunda+Slab
 - https://fonts.google.com/specimen/Kelly+Slab
+- https://fonts.google.com/specimen/Overpass
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
