@@ -342,6 +342,7 @@
 - https://fonts.google.com/specimen/Kelly+Slab
 - https://fonts.google.com/specimen/Overpass
 - https://fonts.google.com/specimen/Recursive
+- https://fonts.google.com/specimen/Advent+Pro
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
