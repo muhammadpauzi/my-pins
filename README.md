@@ -343,6 +343,8 @@
 - https://fonts.google.com/specimen/Overpass
 - https://fonts.google.com/specimen/Recursive
 - https://fonts.google.com/specimen/Advent+Pro
+- https://fonts.google.com/specimen/Kanit
+- https://fonts.google.com/specimen/Space+Grotesk
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
