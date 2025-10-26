@@ -345,6 +345,7 @@
 - https://fonts.google.com/specimen/Advent+Pro
 - https://fonts.google.com/specimen/Kanit
 - https://fonts.google.com/specimen/Space+Grotesk
+- https://fonts.google.com/specimen/Saira?query=Saira
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
