@@ -27,6 +27,7 @@
 - https://tokopay.id/
 - https://durianpay.id/
 - https://www.xendit.co/
+- https://www.onebrick.io/
 
 ## E-Mail Templates (HTML)
 - https://tabular.email/
