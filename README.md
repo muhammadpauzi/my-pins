@@ -385,6 +385,7 @@ https://flexboxlabs.netlify.app/
 
 # Web UI Library
 - https://react-spectrum.adobe.com/react-aria 🌟
+- https://atlassian.design/components/select/examples
 - https://intentui.com 🌟
 - https://ui.aceternity.com
 - https://ui.shadcn.com
