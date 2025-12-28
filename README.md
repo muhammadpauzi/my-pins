@@ -347,6 +347,7 @@
 - https://fonts.google.com/specimen/Kanit
 - https://fonts.google.com/specimen/Space+Grotesk
 - https://fonts.google.com/specimen/Saira?query=Saira
+- https://fonts.google.com/specimen/Google+Sans
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
