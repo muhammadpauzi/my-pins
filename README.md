@@ -348,6 +348,7 @@
 - https://fonts.google.com/specimen/Space+Grotesk
 - https://fonts.google.com/specimen/Saira?query=Saira
 - https://fonts.google.com/specimen/Google+Sans
+- https://fonts.google.com/specimen/Vollkorn
 
 ## Fonts for Brutalism Design
 - https://fonts.google.com/specimen/Bricolage+Grotesque
