@@ -51,6 +51,14 @@ A curated collection of resources, tools, and references for design and developm
 - https://motion.zajno.com/
 - https://abtest.design/
 - https://land-book.com/
+- https://www.awwwards.com/
+- https://httpster.net/
+- https://www.siteinspire.com/
+- https://mobbin.com/ — mobile & web app UI patterns
+- https://screenlane.com/
+- https://pageflows.com/ — recorded user flows
+- https://www.refactoringui.com/ — design tips (book/site)
+- https://collectui.com/
 
 ### Real Website Design Examples
 
@@ -82,6 +90,10 @@ A curated collection of resources, tools, and references for design and developm
 - https://www.toools.design/
 - https://www.brandguidelines.net/
 - https://fountn.design/
+- https://www.peppercorn.studio/ — grain/gradient tools
+- https://ui.land/
+- https://designsystems.surf/ — real design systems gallery
+- https://component.gallery/ — component patterns reference
 
 ### Color Tools
 
@@ -95,6 +107,12 @@ A curated collection of resources, tools, and references for design and developm
 - https://uicolors.app/generate/915cb5
 - https://www.happyhues.co — website color palette
 - https://realtimecolors.com
+- https://coolors.co/ — palette generator (very popular)
+- https://colorhunt.co/ — curated palettes
+- https://www.radix-ui.com/colors — accessible color system
+- https://uicolors.app/ — Tailwind shade generator
+- https://palettte.app/ — refine/edit palettes
+- https://www.tints.dev/ — Tailwind palette generator
 
 ### UI Design Resources
 
@@ -203,6 +221,14 @@ A curated collection of resources, tools, and references for design and developm
 - https://nucleoapp.com/free-icons
 - https://simpleicons.org — brand icons
 - https://3dicons.co — 3D
+- https://phosphoricons.com — flexible icon family
+- https://tabler.io/icons — 4000+ free SVG icons
+- https://remixicon.com
+- https://boxicons.com
+- https://fontawesome.com
+- https://thenounproject.com
+- https://icones.js.org — Iconify browser/search
+- https://yesicon.app — unified icon search
 
 ### Illustrations
 
@@ -217,6 +243,13 @@ A curated collection of resources, tools, and references for design and developm
 - https://www.uistore.design/categories/illustrations
 - https://www.streamlinehq.com
 - https://sapiens.ui8.net/6m5c3w7
+- https://undraw.co/illustrations — hugely popular, recolorable
+- https://www.humaaans.com — mix-and-match people
+- https://blush.design — customizable illustrations
+- https://openpeeps.com — hand-drawn library
+- https://www.opendoodles.com — free sketchy doodles
+- https://error404.fun
+- https://www.glazestock.com
 
 ### 3D & Isometric
 
@@ -285,6 +318,12 @@ A curated collection of resources, tools, and references for design and developm
 
 - https://lottiefiles.com/animation/landing-page
 - https://phase.com
+- https://www.framer.com/motion/ — Motion for React
+- https://gsap.com — professional-grade animation
+- https://auto-animate.formkit.com — drop-in transitions
+- https://animate.style — Animate.css
+- https://www.transition.style — CSS transition snippets
+- https://rive.app — interactive animations
 
 ### Noise / Ambient Sound (Free)
 
@@ -292,6 +331,16 @@ A curated collection of resources, tools, and references for design and developm
 - https://mynoise.net/
 - https://asoftmurmur.com/
 - https://www.moodil.com/
+
+### Stock Photos & Video (Free)
+
+- https://unsplash.com
+- https://www.pexels.com
+- https://pixabay.com
+- https://burst.shopify.com
+- https://www.reshot.com
+- https://coverr.co — free video
+- https://mixkit.co — video, music, SFX
 
 ---
 
@@ -324,6 +373,15 @@ A curated collection of resources, tools, and references for design and developm
 - Be Vietnam Pro
 - Cabin
 - Manrope
+- Inter — the de facto UI standard
+- Geist / Geist Mono — Vercel's typeface
+- Satoshi
+- General Sans
+- Switzer
+- Clash Grotesk
+- DM Sans
+- Schibsted Grotesk
+- Host Grotesk
 
 ### Google Fonts
 
@@ -362,6 +420,18 @@ A curated collection of resources, tools, and references for design and developm
 - https://fonts.google.com/specimen/Google+Sans
 - https://fonts.google.com/specimen/Vollkorn
 - https://fonts.google.com/specimen/Archivo
+- https://fonts.google.com/specimen/Inter
+- https://fonts.google.com/specimen/DM+Sans
+- https://fonts.google.com/specimen/Figtree
+- https://fonts.google.com/specimen/Geist
+- https://fonts.google.com/specimen/Schibsted+Grotesk
+- https://fonts.google.com/specimen/Hanken+Grotesk
+- https://fonts.google.com/specimen/Fraunces
+- https://fonts.google.com/specimen/Lora
+- https://fonts.google.com/specimen/Spline+Sans
+- https://fonts.google.com/specimen/Bricolage+Grotesque
+- https://fonts.google.com/specimen/JetBrains+Mono — code
+- https://fonts.google.com/specimen/Geist+Mono — code
 
 ### Brutalism Fonts
 
@@ -406,6 +476,39 @@ A curated collection of resources, tools, and references for design and developm
 - https://www.embedista.com — embed generator for IG, Facebook, etc.
 - https://behold.so
 
+### VS Code Extensions
+
+- Peacock — color-code your workspace/window per project
+- Prettier — opinionated code formatter
+- ESLint — JS/TS linting
+- GitLens — supercharged Git in the editor
+- Error Lens — inline error/warning highlights
+- Tailwind CSS IntelliSense
+- Path Intellisense
+- Auto Rename Tag
+- Console Ninja — inline runtime logs
+- Pretty TypeScript Errors
+- Material Icon Theme
+
+### Online Playgrounds & Sandboxes
+
+- https://codesandbox.io
+- https://stackblitz.com
+- https://codepen.io
+- https://play.tailwindcss.com
+- https://tsplay.dev — TypeScript playground
+- https://regex101.com — regex tester
+- https://jsonhero.io — explore JSON
+
+### APIs, Mock Data & Testing
+
+- https://jsonplaceholder.typicode.com — fake REST API
+- https://mockaroo.com — realistic test data
+- https://github.com/typicode/json-server — instant REST API
+- https://hoppscotch.io — API client (Postman alternative)
+- https://httpie.io
+- https://www.postman.com
+
 ---
 
 ## ⚛️ Frontend Libraries
@@ -436,19 +539,36 @@ A curated collection of resources, tools, and references for design and developm
 - https://chr15m.github.io/DoodleCSS
 - https://originui.com/table
 - https://www.heroui.com
+- https://ui.shadcn.com — the most popular; copy-paste components
+- https://magicui.design — animated components for shadcn/Tailwind
+- https://www.cult-ui.com
+- https://motion-primitives.com
+- https://animata.design
+- https://park-ui.com
+- https://tailark.com
+- https://www.hyperui.dev — free Tailwind components
+- https://flowbite.com
+- https://daisyui.com — Tailwind component classes
+- https://preline.co
+- https://nextui.org → https://www.heroui.com (renamed)
+- https://basecoatui.com
 
 ### React
 
 - https://reactbits.dev
 - https://react-spectrum.adobe.com/react-aria 🌟
 - https://intentui.com 🌟
-- **Hooks:** React Use, React Haiku, Rooks
+- https://www.framer.com/motion/ — Motion (animation standard)
+- https://tanstack.com — Query, Router, Table, Form, Start
+- https://ui.shadcn.com
+- **Hooks:** React Use, React Haiku, Rooks, usehooks-ts
 - **Utilities:** React Table, React Draggable, React Helmet
-- **Icons:** React Icons, @heroicons/react
-- **State & Data Fetching:** React Query, Axios, Redux Toolkit, Zustand
-- **Animations:** Framer Motion, React Spring, GSAP
-- **TailwindCSS Stack:** @headlessui/react, tailwindcss, @heroicons/react
-- **UI:** Base Web, Chakra UI, Material UI
+- **Icons:** React Icons, @heroicons/react, lucide-react
+- **State & Data Fetching:** TanStack Query, Axios, Redux Toolkit, Zustand, Jotai
+- **Animations:** Framer Motion (Motion), React Spring, GSAP, Auto-Animate
+- **Forms:** React Hook Form, Zod, TanStack Form
+- **TailwindCSS Stack:** @headlessui/react, tailwindcss, lucide-react
+- **UI:** shadcn/ui, Radix UI, Chakra UI, Material UI
 
 ### TailwindCSS & Plugins
 
@@ -558,10 +678,38 @@ A curated collection of resources, tools, and references for design and developm
 - [HyGraph CMS](https://hygraph.com/)
 - Sanity
 - Strapi
+- Directus
+- Keystatic
+- Contentful
+
+### Backend-as-a-Service / Databases
+
+- https://supabase.com — open-source Firebase alternative
+- https://firebase.google.com
+- https://www.prisma.io — TypeScript ORM
+- https://neon.tech — serverless Postgres
+- https://planetscale.com — serverless MySQL
+- https://turso.tech — edge SQLite
+- https://orm.drizzle.team — lightweight TypeScript ORM
+- https://pocketbase.io — single-file backend
+- https://appwrite.io
+- https://upstash.com — serverless Redis/Kafka
+
+### Deployment & Hosting
+
+- https://vercel.com
+- https://www.netlify.com
+- https://render.com
+- https://railway.app
+- https://fly.io
+- https://pages.cloudflare.com
 
 ### Analytics
 
 - https://splitbee.io/
+- https://plausible.io — privacy-friendly
+- https://umami.is — open-source
+- https://posthog.com — product analytics
 
 ---
 
@@ -601,6 +749,17 @@ A curated collection of resources, tools, and references for design and developm
 - https://uifaces.co
 - https://speechma.com
 - https://pushkeen.ai
+- https://chat.openai.com — ChatGPT
+- https://claude.ai
+- https://gemini.google.com
+- https://perplexity.ai — AI search
+- https://www.cursor.com — AI code editor
+- https://v0.dev — generate UI from prompts
+- https://bolt.new — build full apps from a prompt
+- https://lovable.dev
+- https://github.com/features/copilot
+- https://www.midjourney.com
+- https://leonardo.ai
 
 ### AI-Generated Images (Free)
 
@@ -620,6 +779,16 @@ A curated collection of resources, tools, and references for design and developm
 - https://learnxinyminutes.com
 - https://learnjavascript.online
 - https://www.classcentral.com/report/free-developer-it-certifications/ — free IT certifications
+- https://roadmap.sh — developer roadmaps
+- https://developer.mozilla.org — MDN Web Docs
+- https://web.dev — modern web best practices
+- https://javascript.info — the modern JS tutorial
+- https://www.freecodecamp.org
+- https://www.theodinproject.com
+- https://fullstackopen.com
+- https://frontendmasters.com
+- https://patterns.dev — modern web app patterns
+- https://every-layout.dev — resilient CSS layouts
 
 ### GraphQL Guides
 
